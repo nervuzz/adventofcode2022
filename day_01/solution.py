@@ -1,4 +1,7 @@
-"""https://adventofcode.com/2022/day/1"""
+"""
+--- Day 1: Calorie Counting ---
+https://adventofcode.com/2022/day/1
+"""
 
 curr_elf = alfa_elf = curr_kcal = max_kcal = 0
 curr_elf_arr = []
